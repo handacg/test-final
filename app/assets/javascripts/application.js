@@ -14,6 +14,9 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= require jquery
+//= require jquery_ujs
+
 
 //= require assets/scripts/extensions/revolution.extension.actions.min
 //= require assets/scripts/extensions/revolution.extension.carousel.min
